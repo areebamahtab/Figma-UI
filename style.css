@@ -457,7 +457,7 @@ footer {
 footer p {
   color: #737373;
 }
-/*the grids padding doesnt work below 400*/
+
 @media (max-width: 480px) {
   
   html,body {
@@ -656,4 +656,5 @@ img {
     margin-bottom: 10px;
   }
 }
+
 
